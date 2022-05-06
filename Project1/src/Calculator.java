@@ -30,8 +30,6 @@ public class Calculator {
 			return;
 		}
 		System.out.printf("%1f %c %.1f = %.1f", first, operator, second, result);
-			
-		// TODO Auto-generated method stub
 
 	}
 
